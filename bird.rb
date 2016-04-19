@@ -24,9 +24,5 @@ class Penguin < Bird
   end
 end
 
-class BabyPenguin < Penguin
-end
-
-
 class Parrot < Bird
 end
